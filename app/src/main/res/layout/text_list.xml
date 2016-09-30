@@ -1,0 +1,9 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:gravity="center_vertical"
+    android:padding="2dp"
+    android:textAllCaps="true"
+    android:textColor="@color/colorPrimary"
+    android:textSize="20sp" />
